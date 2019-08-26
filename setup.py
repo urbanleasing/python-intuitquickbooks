@@ -19,7 +19,7 @@ setup(
     author='Edward Emanuel Jr.',
     author_email='edward@sidecarsinc.com',
     description='A Python library for accessing the Quickbooks API.',
-    url='https://github.com/sidecars/python-intuitquickbooks',
+    url='https://github.com/urbanleasing/python-intuitquickbooks',
     license='MIT',
     keywords=['quickbooks', 'qbo', 'accounting'],
     long_description=read('README.rst'),
